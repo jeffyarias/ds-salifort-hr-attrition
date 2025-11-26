@@ -61,8 +61,8 @@ The workflow includes:
 │   ├── salifort_hr_raw.csv
 │   └── salifort_hr_clean.csv
 ├── notebooks/
-│   ├── 01_salifort_hr_attrition_original.ipynb    # course/original version
-│   └── 02_salifort_hr_attrition_clean.ipynb       # portfolio-ready version
+│   ├── 01_salifort_hr_attrition_original.ipynb    # original version
+│   └── 02_salifort_hr_attrition_clean.ipynb       # clean version
 ├── reports/
 │   └── figures/
 │       ├── attrition_by_department.png
