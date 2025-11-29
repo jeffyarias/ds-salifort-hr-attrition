@@ -52,23 +52,13 @@ The workflow includes:
 5. Model evaluation and feature importance analysis
 6. Business-focused interpretation and recommendations
 
-## Repository Structure
+## Folder structure
+
+<!-- FOLDER_STRUCTURE_START -->
 
 ```text
-.
-├── README.md
-├── data/
-│   ├── salifort_hr_raw.csv
-│   └── salifort_hr_clean.csv
-├── notebooks/
-│   ├── 01_salifort_hr_attrition_original.ipynb    # original version
-│   └── 02_salifort_hr_attrition_clean.ipynb       # clean version
-├── reports/
-│   └── figures/
-│       ├── attrition_by_department.png
-│       ├── satisfaction_vs_attrition.png
-│       ├── feature_importance_random_forest.png
-│       └── roc_curve_best_model.png
-└── src/
-    ├── data_prep.py
-    └── modeling.py
+(placeholder – will be auto-filled)
+```
+
+<!-- FOLDER_STRUCTURE_END -->
+
