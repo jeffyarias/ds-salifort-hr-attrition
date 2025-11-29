@@ -51,6 +51,13 @@ The workflow includes:
 4. Model training and hyperparameter tuning
 5. Model evaluation and feature importance analysis
 6. Business-focused interpretation and recommendations
+### 📊 Visualizations
+
+| Plot | Preview |
+|------|---------|
+| Tenure Distribution | ![](reports/figures/tenure_boxplot.png) |
+| Attrition Heatmap   | ![](reports/figures/satisfaction_boxplot.png) |
+
 
 ## Folder structure
 
