@@ -57,7 +57,17 @@ The workflow includes:
 <!-- FOLDER_STRUCTURE_START -->
 
 ```text
-(placeholder – will be auto-filled)
+.
+├── data
+│   └── HR_capstone_dataset.csv
+├── README.md
+├── reports
+│   └── figures
+│       └── tenure_boxplot.png
+├── Salifort Motors project lab.ipynb
+└── update_structure.sh
+
+4 directories, 5 files
 ```
 
 <!-- FOLDER_STRUCTURE_END -->
