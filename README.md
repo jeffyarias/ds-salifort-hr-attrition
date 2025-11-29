@@ -63,11 +63,12 @@ The workflow includes:
 ├── README.md
 ├── reports
 │   └── figures
+│       ├── satisfaction_boxplot.png
 │       └── tenure_boxplot.png
 ├── Salifort Motors project lab.ipynb
 └── update_structure.sh
 
-4 directories, 5 files
+4 directories, 6 files
 ```
 
 <!-- FOLDER_STRUCTURE_END -->
