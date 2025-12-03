@@ -67,6 +67,11 @@ The workflow includes:
 .
 ├── data
 │   └── HR_capstone_dataset.csv
+├── experiment_models
+│   ├── best_random_forest.pkl
+│   └── rf1_gridsearch.pkl
+├── models
+│   └── best_random_forest.pkl
 ├── README.md
 ├── reports
 │   └── figures
@@ -75,7 +80,7 @@ The workflow includes:
 ├── Salifort Motors project lab.ipynb
 └── update_structure.sh
 
-4 directories, 6 files
+6 directories, 9 files
 ```
 
 <!-- FOLDER_STRUCTURE_END -->
